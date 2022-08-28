@@ -1,0 +1,38 @@
+html {
+      box-sizing: border-box;
+     }
+      *,
+      *:before,
+      *:after 
+              {
+               box-sizing: border-box;
+              }
+
+
+
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* No me sirvió para corregir las imágenes */
+/*.card img
+ {
+  width: 80% !important;
+  height: 80% !important;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+ } */
+
+ .container img
+ {
+  height: 10% !important
+ }
+
+
+ footer
+        {
+         text-align: center;
+        }
+
